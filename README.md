@@ -1,5 +1,5 @@
-<<<<<<< Updated upstream
-# intellectual!!!
-=======
+# intellectual!!
+# intellectual!!! 
 # intellectual
->>>>>>> Stashed changes
+import django as dj
+ Stashed changes
