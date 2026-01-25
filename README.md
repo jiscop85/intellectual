@@ -1,5 +1,8 @@
 # intellectual!!
 # intellectual!!! 
 # intellectual
-import django as dj
+import django
+import numpy as np
+import matplotlib as plt
+import pandas as pd
  Stashed changes
