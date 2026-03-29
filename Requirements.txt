@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+faiss-cpu
+numpy
+transformers
+torch
+fastapi
+uvicorn
+pydantic
